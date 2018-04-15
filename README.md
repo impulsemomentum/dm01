@@ -1,2 +1,2 @@
 # dm01
-first project for data mining course
+project 1 for data mining course
